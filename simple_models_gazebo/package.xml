@@ -9,7 +9,7 @@
 
   <buildtool_depend>catkin</buildtool_depend>
 
-  <depend>gazebo</depend>
+  <depend>gazebo8</depend>
   <depend>boost</depend>
   <depend>gazebo_ros</depend>
   <depend>gazebo_plugins</depend>
